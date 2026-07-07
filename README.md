@@ -431,21 +431,16 @@ Educational machine-learning classification project based on structured health a
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Prakhar170306/Prakhar170306/output/github-contribution-grid-snake-dark.svg"
     />
-
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Prakhar170306/Prakhar170306/output/github-contribution-grid-snake.svg"
     />
-
     <img
       src="https://raw.githubusercontent.com/Prakhar170306/Prakhar170306/output/github-contribution-grid-snake-dark.svg"
-      alt="GitHub contribution snake animation"
+      alt="Prakhar Saulakhe GitHub contribution snake animation"
     />
   </picture>
 </p>
-
----
-
 ## ◆ Connect
 
 <p align="center">
