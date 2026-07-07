@@ -84,156 +84,59 @@ I am an **AI and full-stack developer** focused on building practical software s
 
 ## ◆ Profile Snapshot
 
-```yaml
-name: Prakhar Saulakhe
-username: Prakhar170306
-
-education:
-  degree: B.Tech in Information Technology
-  specialization: Artificial Intelligence & Robotics
-  institute: Madhav Institute of Technology and Science, Gwalior
-
-current_focus:
-  - Data Science
-  - Machine Learning
-  - AI Engineering
-  - Full-Stack Development
-  - Backend Systems
-
-core_strengths:
-  - Data Structures and Algorithms
-  - Competitive Programming
-  - Problem Solving
-  - API Development
-  - Project Architecture
-
-coding_profile:
-  codechef: prak_17
-```
-
----
-
-## ◆ Current Direction
-
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong>Currently Building</strong>
-      <br><br>
-      AI-powered developer tools, intelligent dashboards and production-focused full-stack applications.
-    </td>
-
-    <td width="50%" valign="top">
-      <strong>Currently Learning</strong>
-      <br><br>
-      Data analysis, feature engineering, machine learning pipelines, model evaluation and deployment workflows.
+    <td width="28%"><strong>Developer</strong></td>
+    <td>
+      <strong>Prakhar Saulakhe</strong><br>
+      GitHub: <a href="https://github.com/Prakhar170306">@Prakhar170306</a>
     </td>
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
-      <strong>Engineering Focus</strong>
-      <br><br>
-      Clean architecture, reusable APIs, scalable project structure and polished user experiences.
+    <td><strong>Education</strong></td>
+    <td>
+      B.Tech in Information Technology<br>
+      Artificial Intelligence & Robotics<br>
+      Madhav Institute of Technology and Science, Gwalior
     </td>
+  </tr>
 
-    <td width="50%" valign="top">
-      <strong>Collaboration Areas</strong>
-      <br><br>
-      AI/ML products, backend engineering, developer tools and full-stack open-source projects.
+  <tr>
+    <td><strong>Current Focus</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data_Science-162127?style=flat-square&logo=python&logoColor=F4E8DC" alt="Data Science" />
+      <img src="https://img.shields.io/badge/Machine_Learning-CF9D7B?style=flat-square&logo=scikitlearn&logoColor=0C1519" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/AI_Engineering-724B39?style=flat-square&logo=openai&logoColor=F4E8DC" alt="AI Engineering" />
+      <img src="https://img.shields.io/badge/Full--Stack_Development-3A3534?style=flat-square&logo=react&logoColor=F4E8DC" alt="Full-Stack Development" />
+      <img src="https://img.shields.io/badge/Backend_Systems-162127?style=flat-square&logo=fastapi&logoColor=F4E8DC" alt="Backend Systems" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Core Strengths</strong></td>
+    <td>
+      Data Structures & Algorithms • Problem Solving • Competitive Programming •
+      API Development • Project Architecture
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Primary Stack</strong></td>
+    <td>
+      C++ • Python • React • TypeScript • FastAPI • PostgreSQL
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Coding Profile</strong></td>
+    <td>
+      <a href="https://www.codechef.com/users/prak_17">
+        <img src="https://img.shields.io/badge/CodeChef-prak__17-CF9D7B?style=for-the-badge&logo=codechef&logoColor=0C1519&labelColor=F4E8DC" alt="CodeChef Profile" />
+      </a>
     </td>
   </tr>
 </table>
-
----
-
-## ◆ Selected Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### [BugTrace AI](https://github.com/Prakhar170306/BugTraceAI)
-
-AI-powered bug-localization and patch-guidance platform designed to identify suspicious files and explain likely root causes.
-
-**Core capabilities**
-
-- Repository scanning and static analysis
-- Semantic code retrieval
-- Suspicious-file ranking
-- Root-cause explanations
-- Dependency and call-graph analysis
-- Patch recommendations
-- PDF and JSON reports
-
-**Stack:** React • Vite • Tailwind CSS • FastAPI • Python
-
-</td>
-
-<td width="50%" valign="top">
-
-### [Momento OS](https://github.com/Prakhar170306/Momento-OS)
-
-AI-driven career-preparation platform that combines interview practice, progress tracking and personalized preparation workflows.
-
-**Core capabilities**
-
-- Resume analysis
-- AI mock interviews
-- Personalized question generation
-- Interview feedback reports
-- DSA progress tracking
-- Skill-gap monitoring
-- Long-term learning memory
-
-**Stack:** React • TypeScript • FastAPI • Python • SQLAlchemy
-
-</td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### [Neon SDF Audio Visualizer](https://github.com/Prakhar170306/Neon-SDF-Audio-Visualizer)
-
-Real-time GPU visualizer combining GLSL shaders, signed distance fields and audio-reactive rendering.
-
-**Core capabilities**
-
-- GPU-based GLSL rendering
-- FFT frequency analysis
-- Bass, mid and treble response
-- Audio-reactive neon effects
-- Mouse interaction
-- Theme and particle controls
-
-**Stack:** Python • Pygame • PyOpenGL • GLSL • NumPy
-
-</td>
-
-<td width="50%" valign="top">
-
-### [NHANES AgeRisk AI](https://github.com/Prakhar170306/NHANES-AgeRisk-AI)
-
-Educational machine-learning classification project based on structured health and lifestyle data.
-
-**Core capabilities**
-
-- Exploratory data analysis
-- Feature engineering
-- Stratified cross-validation
-- Hyperparameter tuning
-- Threshold optimization
-- Streamlit prediction interface
-
-**Stack:** Python • Pandas • scikit-learn • XGBoost • Streamlit
-
-</td>
-  </tr>
-</table>
-
----
 
 ## ◆ Problem Solving
 
@@ -292,43 +195,16 @@ Educational machine-learning classification project based on structured health a
 ### Data Science and Machine Learning
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Pandas-162127?style=for-the-badge&logo=pandas&logoColor=F4E8DC&labelColor=0C1519"
-    alt="Pandas"
-  />
-
-  <img
-    src="https://img.shields.io/badge/NumPy-CF9D7B?style=for-the-badge&logo=numpy&logoColor=0C1519&labelColor=F4E8DC"
-    alt="NumPy"
-  />
-
-  <img
-    src="https://img.shields.io/badge/scikit--learn-724B39?style=for-the-badge&logo=scikitlearn&logoColor=F4E8DC&labelColor=0C1519"
-    alt="Scikit-learn"
-  />
-
-  <img
-    src="https://img.shields.io/badge/XGBoost-3A3534?style=for-the-badge&logo=python&logoColor=F4E8DC&labelColor=0C1519"
-    alt="XGBoost"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Matplotlib-162127?style=for-the-badge&logo=python&logoColor=F4E8DC&labelColor=0C1519"
-    alt="Matplotlib"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Streamlit-CF9D7B?style=for-the-badge&logo=streamlit&logoColor=0C1519&labelColor=F4E8DC"
-    alt="Streamlit"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Jupyter-724B39?style=for-the-badge&logo=jupyter&logoColor=F4E8DC&labelColor=0C1519"
-    alt="Jupyter"
-  />
+  <img src="https://img.shields.io/badge/Pandas-162127?style=for-the-badge&logo=pandas&logoColor=F4E8DC&labelColor=0C1519" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-CF9D7B?style=for-the-badge&logo=numpy&logoColor=0C1519&labelColor=F4E8DC" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-724B39?style=for-the-badge&logo=scikitlearn&logoColor=F4E8DC&labelColor=0C1519" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-3A3534?style=for-the-badge&logo=python&logoColor=F4E8DC&labelColor=0C1519" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Matplotlib-162127?style=for-the-badge&logo=python&logoColor=F4E8DC&labelColor=0C1519" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Streamlit-CF9D7B?style=for-the-badge&logo=streamlit&logoColor=0C1519&labelColor=F4E8DC" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Jupyter-724B39?style=for-the-badge&logo=jupyter&logoColor=F4E8DC&labelColor=0C1519" alt="Jupyter" />
 </p>
 
-### Tools
+### ◆ Tools
 
 <p align="center">
   <img
@@ -343,30 +219,71 @@ Educational machine-learning classification project based on structured health a
 
 <p align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Prakhar170306&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0C1519&title_color=CF9D7B&text_color=F4E8DC&icon_color=CF9D7B"
-    alt="GitHub statistics"
+    src="https://img.shields.io/badge/AI_Developer_Tools-0C1519?style=for-the-badge&logo=github&logoColor=CF9D7B"
+    alt="AI Developer Tools"
   />
+  <img
+    src="https://img.shields.io/badge/Full--Stack_Systems-724B39?style=for-the-badge&logo=react&logoColor=F4E8DC"
+    alt="Full-Stack Systems"
+  />
+  <img
+    src="https://img.shields.io/badge/Data_Science-CF9D7B?style=for-the-badge&logo=python&logoColor=0C1519"
+    alt="Data Science"
+  />
+  <img
+    src="https://img.shields.io/badge/GPU_Graphics-3A3534?style=for-the-badge&logo=opengl&logoColor=F4E8DC"
+    alt="GPU Graphics"
+  />
+</p>
 
+<br>
+
+<p align="center">
+  <img
+    width="94%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakhar170306&theme=gruvbox"
+    alt="Prakhar Saulakhe GitHub profile overview"
+  />
+</p>
+
+<br>
+
+<p align="center">
   <img
     width="48%"
-    src="https://streak-stats.demolab.com?user=Prakhar170306&hide_border=true&background=0C1519&stroke=162127&ring=CF9D7B&fire=724B39&currStreakNum=F4E8DC&sideNums=F4E8DC&currStreakLabel=CF9D7B&sideLabels=CF9D7B&dates=F4E8DC"
+    height="190"
+    src="https://streak-stats.demolab.com?user=Prakhar170306&hide_border=true&background=0C1519&stroke=724B39&ring=CF9D7B&fire=CF9D7B&currStreakNum=F4E8DC&sideNums=F4E8DC&currStreakLabel=CF9D7B&sideLabels=F4E8DC&dates=BFA58F"
     alt="GitHub contribution streak"
+  />
+  <img
+    width="48%"
+    height="190"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prakhar170306&theme=gruvbox&utcOffset=5.5"
+    alt="Productive coding time"
   />
 </p>
 
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar170306&layout=compact&langs_count=8&hide_border=true&bg_color=0C1519&title_color=CF9D7B&text_color=F4E8DC"
-    alt="Top programming languages"
+    height="190"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakhar170306&theme=gruvbox"
+    alt="Top languages across repositories"
   />
-
   <img
     width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prakhar170306&theme=github_dark&utcOffset=5.5"
-    alt="Productive coding time"
+    height="190"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakhar170306&theme=gruvbox"
+    alt="Top languages by commits"
   />
+</p>
+
+<br>
+
+<p align="center">
+  <sub>
+    Public contribution, repository and programming-language analytics.
+  </sub>
 </p>
 
 ---
@@ -403,6 +320,7 @@ Educational machine-learning classification project based on structured health a
     />
   </picture>
 </p>
+
 ## ◆ Connect
 
 <p align="center">
