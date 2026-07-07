@@ -230,7 +230,7 @@ Verified graphics work includes OpenGL, GLSL shader programming, Pygame renderin
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/Prakhar170306ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/Prakhar170306ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura)
 ## Contribution Activity Graph
 
 <p align="center">
