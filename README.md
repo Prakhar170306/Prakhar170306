@@ -228,13 +228,8 @@ Verified graphics work includes OpenGL, GLSL shader programming, Pygame renderin
   <img width="49%" alt="Productive time summary for Prakhar170306" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prakhar170306&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-## GitHub Trophies
-
-Generated daily by the profile workflow from public GitHub statistics.
-
-<p align="center">
-  <img alt="Generated GitHub trophy summary for Prakhar170306" src="https://raw.githubusercontent.com/Prakhar170306/Prakhar170306/output/github-profile-trophies.svg" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Contribution Activity Graph
 
