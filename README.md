@@ -230,9 +230,16 @@ Verified graphics work includes OpenGL, GLSL shader programming, Pygame renderin
 
 ## 🏆 GitHub Trophies
 
-[[![trophy](https://github-profile-trophy.vercel.app/Prakhar170306ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura)
-## Contribution Activity Graph
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy-liard-delta.vercel.app/?username=Prakhar170306&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1"
+      alt="GitHub Trophies for Prakhar170306"
+    />
+  </a>
+</div>
 
+## Contribution Activity Graph
 <p align="center">
   <img alt="GitHub contribution activity graph for Prakhar170306" src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar170306&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=9ece6a" />
 </p>
