@@ -1,249 +1,480 @@
 <p align="center">
   <img
     src="https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true"
-    width="55%"
-    alt="Animated profile banner"
+    width="58%"
+    alt="Animated developer profile banner"
   />
 </p>
-
-<br>
 
 <h1 align="center">Hi 👋, I'm Prakhar Saulakhe</h1>
 
 <h3 align="center">
-  AI & Full-Stack Developer • Data Science Focused • Strong Problem-Solving Foundation
+  AI & Full-Stack Developer • Data Science Focus • Strong DSA Foundation
 </h3>
-<h1 align="center">Hi 👋, I'm Prakhar Saulakhe</h1>
-
-<h3 align="center">AI & Full-Stack Developer • Data Science Focused • Strong Problem-Solving Foundation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=2800&pause=800&color=C8A96A&center=true&vCenter=true&width=900&lines=B.Tech+IT+%7C+AI+%26+Robotics+%7C+MITS+Gwalior;Building+AI-Powered+Developer+Tools+and+Intelligent+Systems;Full-Stack+Development+with+React%2C+TypeScript+%26+FastAPI;Currently+Advancing+in+Data+Science+and+Machine+Learning;Strong+Foundation+in+DSA+and+Competitive+Programming" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2700&pause=800&color=CF9D7B&center=true&vCenter=true&width=920&lines=B.Tech+IT+%7C+Artificial+Intelligence+%26+Robotics;Building+AI-Powered+Developer+Tools;Developing+Full-Stack+Systems+with+React+%26+FastAPI;Currently+Advancing+in+Data+Science+and+Machine+Learning;Strong+Foundation+in+DSA+and+Problem+Solving"
+    alt="Animated introduction"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/Prakhar170306">
-    <img src="https://img.shields.io/badge/GitHub-Prakhar170306-134E43?style=for-the-badge&logo=github&logoColor=F7F6F1&labelColor=0F3D34" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-Prakhar170306-162127?style=for-the-badge&logo=github&logoColor=F4E8DC&labelColor=0C1519"
+      alt="GitHub profile"
+    />
   </a>
+
   <a href="mailto:prakharsaulakhe71@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prakharsaulakhe71%40gmail.com-C8A96A?style=for-the-badge&logo=gmail&logoColor=F7F6F1&labelColor=0F3D34" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-prakharsaulakhe71%40gmail.com-724B39?style=for-the-badge&logo=gmail&logoColor=F4E8DC&labelColor=0C1519"
+      alt="Email Prakhar Saulakhe"
+    />
   </a>
+
   <a href="https://www.codechef.com/users/prak_17">
-    <img src="https://img.shields.io/badge/CodeChef-prak__17-E6F0E9?style=for-the-badge&logo=codechef&logoColor=0F3D34&labelColor=0F3D34" alt="CodeChef" />
+    <img
+      src="https://img.shields.io/badge/CodeChef-prak__17-CF9D7B?style=for-the-badge&logo=codechef&logoColor=0C1519&labelColor=F4E8DC"
+      alt="CodeChef profile"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-9-134E43?style=for-the-badge&labelColor=0F3D34" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Followers-3-C8A96A?style=for-the-badge&labelColor=0F3D34" alt="Followers" />
-  <img src="https://img.shields.io/badge/Stars-19-E6F0E9?style=for-the-badge&logo=github&logoColor=0F3D34&labelColor=0F3D34" alt="Stars" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Prakhar170306&style=for-the-badge&color=724B39&label=Profile+Views"
+    alt="Profile views"
+  />
+
+  <img
+    src="https://img.shields.io/github/followers/Prakhar170306?style=for-the-badge&logo=github&logoColor=F4E8DC&color=162127&labelColor=0C1519&label=Followers"
+    alt="GitHub followers"
+  />
+
+  <img
+    src="https://img.shields.io/github/stars/Prakhar170306?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=0C1519&color=CF9D7B&labelColor=F4E8DC&label=Total+Stars"
+    alt="GitHub stars"
+  />
 </p>
 
 ---
 
-## About Me
+## ◆ About Me
 
-- Building AI-powered developer tools, full-stack applications and intelligent software systems.
-- Strong foundation in **Data Structures & Algorithms** with active problem-solving experience.
-- Currently deepening my work in **Data Science, machine learning workflows and analytical systems**.
-- Interested in **AI engineering, backend systems, code intelligence, developer productivity and data-driven products**.
-- Pursuing **B.Tech in Information Technology – Artificial Intelligence & Robotics** at **Madhav Institute of Technology and Science, Gwalior**.
-- Reach me at **[prakharsaulakhe71@gmail.com](mailto:prakharsaulakhe71@gmail.com)**.
+I am an **AI and full-stack developer** focused on building practical software systems, intelligent developer tools and data-driven applications.
+
+- Strong foundation in **Data Structures, Algorithms and problem solving**
+- Currently advancing in **Data Science, machine learning and analytical workflows**
+- Building full-stack applications using **React, TypeScript, FastAPI and Python**
+- Interested in **AI engineering, backend systems, code intelligence and developer productivity**
+- Pursuing **B.Tech in Information Technology – Artificial Intelligence & Robotics**
+- Studying at **Madhav Institute of Technology and Science, Gwalior**
+- Open to meaningful collaborations in **AI, ML, backend and full-stack development**
+
+<p>
+  <strong>Contact:</strong>
+  <a href="mailto:prakharsaulakhe71@gmail.com">
+    prakharsaulakhe71@gmail.com
+  </a>
+</p>
 
 ---
 
-## Profile Snapshot
+## ◆ Profile Snapshot
 
 ```yaml
 name: Prakhar Saulakhe
 username: Prakhar170306
-education: B.Tech in Information Technology - Artificial Intelligence & Robotics
-institute: Madhav Institute of Technology and Science, Gwalior
+
+education:
+  degree: B.Tech in Information Technology
+  specialization: Artificial Intelligence & Robotics
+  institute: Madhav Institute of Technology and Science, Gwalior
+
 current_focus:
-  - AI engineering
-  - Full-stack development
-  - Data science
-  - Backend systems
-  - Developer tools
-strengths:
+  - Data Science
+  - Machine Learning
+  - AI Engineering
+  - Full-Stack Development
+  - Backend Systems
+
+core_strengths:
   - Data Structures and Algorithms
-  - Competitive programming
-  - Problem solving
+  - Competitive Programming
+  - Problem Solving
+  - API Development
+  - Project Architecture
+
 coding_profile:
   codechef: prak_17
 ```
 
 ---
 
-## Current Focus
+## ◆ Current Direction
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Building</strong><br />
-      AI-driven developer tools, polished full-stack products and intelligent system workflows.
+      <strong>Currently Building</strong>
+      <br><br>
+      AI-powered developer tools, intelligent dashboards and production-focused full-stack applications.
     </td>
+
     <td width="50%" valign="top">
-      <strong>Learning</strong><br />
-      Data science, machine learning pipelines, model experimentation and analytics-oriented development.
+      <strong>Currently Learning</strong>
+      <br><br>
+      Data analysis, feature engineering, machine learning pipelines, model evaluation and deployment workflows.
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <strong>Core Strengths</strong><br />
-      DSA, problem solving, backend APIs, React-based frontend systems and project execution.
+      <strong>Engineering Focus</strong>
+      <br><br>
+      Clean architecture, reusable APIs, scalable project structure and polished user experiences.
     </td>
+
     <td width="50%" valign="top">
-      <strong>Open To</strong><br />
-      AI/ML, full-stack development, backend engineering and developer-tool collaborations.
+      <strong>Collaboration Areas</strong>
+      <br><br>
+      AI/ML products, backend engineering, developer tools and full-stack open-source projects.
     </td>
   </tr>
 </table>
 
 ---
 
-## Featured Projects
+## ◆ Selected Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Prakhar170306/BugTraceAI">BugTrace AI</a></h3>
-      <p>AI-powered bug localization and patch guidance platform for repository debugging.</p>
-      <p><strong>Highlights:</strong> semantic code retrieval, suspicious-file ranking, static analysis, call-graph aware reasoning, PDF/JSON reports.</p>
-      <p><strong>Stack:</strong> React • Vite • Tailwind CSS • FastAPI • Python</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Prakhar170306/Momento-OS">Momento OS</a></h3>
-      <p>Career preparation system with AI-assisted interview workflows and structured progress tracking.</p>
-      <p><strong>Highlights:</strong> resume analysis, mock interviews, adaptive questions, feedback reports, DSA tracking, long-term memory.</p>
-      <p><strong>Stack:</strong> React • TypeScript • FastAPI • Python • SQLAlchemy</p>
-    </td>
+
+### [BugTrace AI](https://github.com/Prakhar170306/BugTraceAI)
+
+AI-powered bug-localization and patch-guidance platform designed to identify suspicious files and explain likely root causes.
+
+**Core capabilities**
+
+- Repository scanning and static analysis
+- Semantic code retrieval
+- Suspicious-file ranking
+- Root-cause explanations
+- Dependency and call-graph analysis
+- Patch recommendations
+- PDF and JSON reports
+
+**Stack:** React • Vite • Tailwind CSS • FastAPI • Python
+
+</td>
+
+<td width="50%" valign="top">
+
+### [Momento OS](https://github.com/Prakhar170306/Momento-OS)
+
+AI-driven career-preparation platform that combines interview practice, progress tracking and personalized preparation workflows.
+
+**Core capabilities**
+
+- Resume analysis
+- AI mock interviews
+- Personalized question generation
+- Interview feedback reports
+- DSA progress tracking
+- Skill-gap monitoring
+- Long-term learning memory
+
+**Stack:** React • TypeScript • FastAPI • Python • SQLAlchemy
+
+</td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Prakhar170306/Neon-SDF-Audio-Visualizer">Neon SDF Audio Visualizer</a></h3>
-      <p>Real-time GPU visualizer using signed distance fields and audio-reactive graphics.</p>
-      <p><strong>Highlights:</strong> GLSL shaders, FFT-based audio response, smooth animation, interactive rendering and custom visual effects.</p>
-      <p><strong>Stack:</strong> Python • Pygame • PyOpenGL • GLSL • NumPy</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Prakhar170306/NHANES-AgeRisk-AI">NHANES AgeRisk AI</a></h3>
-      <p>Health-data classification project focused on structured ML workflows and predictive modeling.</p>
-      <p><strong>Highlights:</strong> feature engineering, cross-validation, hyperparameter tuning, threshold optimization and Streamlit interface.</p>
-      <p><strong>Stack:</strong> Python • Pandas • scikit-learn • XGBoost • Streamlit</p>
-    </td>
+
+### [Neon SDF Audio Visualizer](https://github.com/Prakhar170306/Neon-SDF-Audio-Visualizer)
+
+Real-time GPU visualizer combining GLSL shaders, signed distance fields and audio-reactive rendering.
+
+**Core capabilities**
+
+- GPU-based GLSL rendering
+- FFT frequency analysis
+- Bass, mid and treble response
+- Audio-reactive neon effects
+- Mouse interaction
+- Theme and particle controls
+
+**Stack:** Python • Pygame • PyOpenGL • GLSL • NumPy
+
+</td>
+
+<td width="50%" valign="top">
+
+### [NHANES AgeRisk AI](https://github.com/Prakhar170306/NHANES-AgeRisk-AI)
+
+Educational machine-learning classification project based on structured health and lifestyle data.
+
+**Core capabilities**
+
+- Exploratory data analysis
+- Feature engineering
+- Stratified cross-validation
+- Hyperparameter tuning
+- Threshold optimization
+- Streamlit prediction interface
+
+**Stack:** Python • Pandas • scikit-learn • XGBoost • Streamlit
+
+</td>
   </tr>
 </table>
 
 ---
 
-## Coding Platforms
+## ◆ Problem Solving
 
 <p align="center">
   <a href="https://www.codechef.com/users/prak_17">
-    <img src="https://img.shields.io/badge/CodeChef-prak__17-134E43?style=for-the-badge&logo=codechef&logoColor=F7F6F1&labelColor=0F3D34" alt="CodeChef" />
+    <img
+      src="https://img.shields.io/badge/CodeChef-prak__17-162127?style=for-the-badge&logo=codechef&logoColor=F4E8DC&labelColor=0C1519"
+      alt="CodeChef"
+    />
   </a>
-  <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-C8A96A?style=for-the-badge&logo=leetcode&logoColor=0F3D34&labelColor=F7F6F1" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-E6F0E9?style=for-the-badge&logo=codeforces&logoColor=0F3D34&labelColor=0F3D34" alt="Codeforces" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA_Practice-134E43?style=for-the-badge&logo=geeksforgeeks&logoColor=F7F6F1&labelColor=0F3D34" alt="GeeksforGeeks" />
+
+  <a href="https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM">
+    <img
+      src="https://img.shields.io/badge/LeetCode-DSA_Solutions-CF9D7B?style=for-the-badge&logo=leetcode&logoColor=0C1519&labelColor=F4E8DC"
+      alt="LeetCode solutions"
+    />
+  </a>
+
+  <a href="https://github.com/Prakhar170306/GFG-Problems">
+    <img
+      src="https://img.shields.io/badge/GeeksforGeeks-Problem_Solving-724B39?style=for-the-badge&logo=geeksforgeeks&logoColor=F4E8DC&labelColor=0C1519"
+      alt="GeeksforGeeks solutions"
+    />
+  </a>
+
+  <a href="https://github.com/Prakhar170306/CodeForce-Problems">
+    <img
+      src="https://img.shields.io/badge/Codeforces-Competitive_Programming-3A3534?style=for-the-badge&logo=codeforces&logoColor=F4E8DC&labelColor=0C1519"
+      alt="Codeforces solutions"
+    />
+  </a>
 </p>
 
 ---
 
-## Tech Stack
+## ◆ Technology Stack
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" alt="Languages" />
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,sql"
+    alt="Programming languages"
+  />
 </p>
 
-### Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,fastapi,postgres,sqlite,git,github,vercel" alt="Frameworks and Tools" />
+### Frontend and Backend
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,fastapi,nodejs,postgres,sqlite"
+    alt="Frontend and backend technologies"
+  />
 </p>
 
-### Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/Pandas-134E43?style=for-the-badge&logo=pandas&logoColor=F7F6F1&labelColor=0F3D34" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-C8A96A?style=for-the-badge&logo=numpy&logoColor=0F3D34&labelColor=F7F6F1" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-E6F0E9?style=for-the-badge&logo=scikitlearn&logoColor=0F3D34&labelColor=0F3D34" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-134E43?style=for-the-badge&logo=databricks&logoColor=F7F6F1&labelColor=0F3D34" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/Matplotlib-C8A96A?style=for-the-badge&logo=plotly&logoColor=0F3D34&labelColor=F7F6F1" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Streamlit-E6F0E9?style=for-the-badge&logo=streamlit&logoColor=0F3D34&labelColor=0F3D34" alt="Streamlit" />
+### Data Science and Machine Learning
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Pandas-162127?style=for-the-badge&logo=pandas&logoColor=F4E8DC&labelColor=0C1519"
+    alt="Pandas"
+  />
+
+  <img
+    src="https://img.shields.io/badge/NumPy-CF9D7B?style=for-the-badge&logo=numpy&logoColor=0C1519&labelColor=F4E8DC"
+    alt="NumPy"
+  />
+
+  <img
+    src="https://img.shields.io/badge/scikit--learn-724B39?style=for-the-badge&logo=scikitlearn&logoColor=F4E8DC&labelColor=0C1519"
+    alt="Scikit-learn"
+  />
+
+  <img
+    src="https://img.shields.io/badge/XGBoost-3A3534?style=for-the-badge&logo=python&logoColor=F4E8DC&labelColor=0C1519"
+    alt="XGBoost"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Matplotlib-162127?style=for-the-badge&logo=python&logoColor=F4E8DC&labelColor=0C1519"
+    alt="Matplotlib"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Streamlit-CF9D7B?style=for-the-badge&logo=streamlit&logoColor=0C1519&labelColor=F4E8DC"
+    alt="Streamlit"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Jupyter-724B39?style=for-the-badge&logo=jupyter&logoColor=F4E8DC&labelColor=0C1519"
+    alt="Jupyter"
+  />
+</p>
+
+### Tools
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel"
+    alt="Development tools"
+  />
 </p>
 
 ---
 
-## GitHub Dashboard
+## ◆ GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prakhar170306&show_icons=true&hide_border=true&bg_color=00000000&title_color=C8A96A&text_color=E6F0E9&icon_color=C8A96A&border_color=134E43" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Prakhar170306&hide_border=true&background=00000000&stroke=134E43&ring=C8A96A&fire=C8A96A&currStreakNum=E6F0E9&sideNums=E6F0E9&currStreakLabel=C8A96A&sideLabels=E6F0E9&dates=F7F6F1" alt="GitHub Streak" />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Prakhar170306&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0C1519&title_color=CF9D7B&text_color=F4E8DC&icon_color=CF9D7B"
+    alt="GitHub statistics"
+  />
+
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com?user=Prakhar170306&hide_border=true&background=0C1519&stroke=162127&ring=CF9D7B&fire=724B39&currStreakNum=F4E8DC&sideNums=F4E8DC&currStreakLabel=CF9D7B&sideLabels=CF9D7B&dates=F4E8DC"
+    alt="GitHub contribution streak"
+  />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar170306&layout=compact&hide_border=true&bg_color=00000000&title_color=C8A96A&text_color=E6F0E9&border_color=134E43" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prakhar170306&theme=github_dark" alt="Productive Time" />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar170306&layout=compact&langs_count=8&hide_border=true&bg_color=0C1519&title_color=CF9D7B&text_color=F4E8DC"
+    alt="Top programming languages"
+  />
+
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prakhar170306&theme=github_dark&utcOffset=5.5"
+    alt="Productive coding time"
+  />
 </p>
 
 ---
 
-## Contribution Activity Graph
+## ◆ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar170306&bg_color=00000000&color=E6F0E9&line=C8A96A&point=134E43&area=true&hide_border=true&title_color=C8A96A" alt="Contribution Activity Graph" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar170306&custom_title=Contribution%20Activity&hide_border=true&bg_color=0C1519&color=F4E8DC&title_color=CF9D7B&line=CF9D7B&point=724B39&area=true&area_color=162127"
+    alt="GitHub contribution activity graph"
+  />
 </p>
 
 ---
 
-## Featured Repository Cards
+## ◆ Featured Repositories
 
 <p align="center">
   <a href="https://github.com/Prakhar170306/BugTraceAI">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar170306&repo=BugTraceAI&hide_border=true&bg_color=00000000&title_color=C8A96A&text_color=E6F0E9&icon_color=C8A96A&border_color=134E43" alt="BugTraceAI Repo Card" />
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar170306&repo=BugTraceAI&hide_border=true&bg_color=0C1519&title_color=CF9D7B&text_color=F4E8DC&icon_color=CF9D7B"
+      alt="BugTrace AI repository"
+    />
   </a>
+
   <a href="https://github.com/Prakhar170306/Momento-OS">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar170306&repo=Momento-OS&hide_border=true&bg_color=00000000&title_color=C8A96A&text_color=E6F0E9&icon_color=C8A96A&border_color=134E43" alt="Momento-OS Repo Card" />
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar170306&repo=Momento-OS&hide_border=true&bg_color=0C1519&title_color=CF9D7B&text_color=F4E8DC&icon_color=CF9D7B"
+      alt="Momento OS repository"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Prakhar170306/Neon-SDF-Audio-Visualizer">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar170306&repo=Neon-SDF-Audio-Visualizer&hide_border=true&bg_color=00000000&title_color=C8A96A&text_color=E6F0E9&icon_color=C8A96A&border_color=134E43" alt="Neon-SDF-Audio-Visualizer Repo Card" />
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar170306&repo=Neon-SDF-Audio-Visualizer&hide_border=true&bg_color=0C1519&title_color=CF9D7B&text_color=F4E8DC&icon_color=CF9D7B"
+      alt="Neon SDF Audio Visualizer repository"
+    />
   </a>
+
   <a href="https://github.com/Prakhar170306/NHANES-AgeRisk-AI">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar170306&repo=NHANES-AgeRisk-AI&hide_border=true&bg_color=00000000&title_color=C8A96A&text_color=E6F0E9&icon_color=C8A96A&border_color=134E43" alt="NHANES-AgeRisk-AI Repo Card" />
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar170306&repo=NHANES-AgeRisk-AI&hide_border=true&bg_color=0C1519&title_color=CF9D7B&text_color=F4E8DC&icon_color=CF9D7B"
+      alt="NHANES AgeRisk AI repository"
+    />
   </a>
 </p>
 
 ---
 
-## Contribution Snake
+## ◆ Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakhar170306/Prakhar170306/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakhar170306/Prakhar170306/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Prakhar170306/Prakhar170306/output/github-contribution-grid-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Prakhar170306/Prakhar170306/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Prakhar170306/Prakhar170306/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/Prakhar170306/Prakhar170306/output/github-contribution-grid-snake-dark.svg"
+      alt="GitHub contribution snake animation"
+    />
   </picture>
 </p>
 
 ---
 
-## Contact
+## ◆ Connect
 
 <p align="center">
   <a href="mailto:prakharsaulakhe71@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prakharsaulakhe71%40gmail.com-C8A96A?style=for-the-badge&logo=gmail&logoColor=F7F6F1&labelColor=0F3D34" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-prakharsaulakhe71%40gmail.com-724B39?style=for-the-badge&logo=gmail&logoColor=F4E8DC&labelColor=0C1519"
+      alt="Email"
+    />
   </a>
+
   <a href="https://github.com/Prakhar170306">
-    <img src="https://img.shields.io/badge/GitHub-Prakhar170306-134E43?style=for-the-badge&logo=github&logoColor=F7F6F1&labelColor=0F3D34" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-Prakhar170306-162127?style=for-the-badge&logo=github&logoColor=F4E8DC&labelColor=0C1519"
+      alt="GitHub"
+    />
   </a>
+
   <a href="https://www.codechef.com/users/prak_17">
-    <img src="https://img.shields.io/badge/CodeChef-prak__17-E6F0E9?style=for-the-badge&logo=codechef&logoColor=0F3D34&labelColor=0F3D34" alt="CodeChef" />
+    <img
+      src="https://img.shields.io/badge/CodeChef-prak__17-CF9D7B?style=for-the-badge&logo=codechef&logoColor=0C1519&labelColor=F4E8DC"
+      alt="CodeChef"
+    />
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  <em>Building purposeful systems with clarity, depth and consistency.</em>
+  <em>
+    Building purposeful systems through strong engineering, continuous learning and consistent execution.
+  </em>
 </p>
