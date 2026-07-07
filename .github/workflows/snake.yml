@@ -1,0 +1,139 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3.5.0
+        with:
+          github_user_name: Prakhar170306
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate trophy summary
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node <<'NODE'
+          const fs = require("fs");
+
+          (async () => {
+            const user = "Prakhar170306";
+            const headers = {
+              "Accept": "application/vnd.github+json",
+              "User-Agent": "profile-trophy-generator"
+            };
+            if (process.env.GITHUB_TOKEN) {
+              headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
+            }
+
+            async function getJson(url) {
+              const response = await fetch(url, { headers });
+              if (!response.ok) {
+                throw new Error(`${url} returned ${response.status}`);
+              }
+              return response.json();
+            }
+
+            function escapeXml(value) {
+              return String(value)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;");
+            }
+
+            function rank(value, thresholds) {
+              if (value >= thresholds[0]) return "SSS";
+              if (value >= thresholds[1]) return "SS";
+              if (value >= thresholds[2]) return "S";
+              if (value >= thresholds[3]) return "A";
+              if (value >= thresholds[4]) return "B";
+              return "C";
+            }
+
+            const profile = await getJson(`https://api.github.com/users/${user}`);
+            const repos = await getJson(`https://api.github.com/users/${user}/repos?per_page=100&type=owner&sort=updated`);
+            const stars = repos.reduce((sum, repo) => sum + (repo.stargazers_count || 0), 0);
+            const forks = repos.reduce((sum, repo) => sum + (repo.forks_count || 0), 0);
+            const languageCounts = new Map();
+
+            for (const repo of repos) {
+              if (repo.language) {
+                languageCounts.set(repo.language, (languageCounts.get(repo.language) || 0) + 1);
+              }
+            }
+
+            const topLanguages = [...languageCounts.entries()]
+              .sort((a, b) => b[1] - a[1])
+              .slice(0, 3)
+              .map(([language]) => language)
+              .join(" / ") || "Learning";
+
+            const createdYear = new Date(profile.created_at).getUTCFullYear();
+            const profileYears = Math.max(1, new Date().getUTCFullYear() - createdYear);
+
+            const trophies = [
+              ["Repositories", profile.public_repos || repos.length, rank(profile.public_repos || repos.length, [60, 40, 25, 15, 8]), "Public project footprint"],
+              ["Stars", stars, rank(stars, [150, 80, 40, 15, 5]), "Community interest"],
+              ["Followers", profile.followers || 0, rank(profile.followers || 0, [100, 50, 25, 10, 3]), "Developer network"],
+              ["Forks", forks, rank(forks, [40, 20, 10, 5, 1]), "Repository reuse"],
+              ["Languages", topLanguages, "S", "Verified public repo stack"],
+              ["Experience", `${profileYears}+ yrs`, rank(profileYears, [8, 6, 4, 2, 1]), "GitHub profile age"]
+            ];
+
+            const cardWidth = 180;
+            const cardHeight = 104;
+            const gap = 14;
+            const cols = 3;
+            const width = cols * cardWidth + (cols - 1) * gap + 36;
+            const height = 2 * cardHeight + gap + 44;
+
+            const cards = trophies.map(([title, value, trophyRank, caption], index) => {
+              const x = 18 + (index % cols) * (cardWidth + gap);
+              const y = 22 + Math.floor(index / cols) * (cardHeight + gap);
+              return `
+                <g transform="translate(${x} ${y})">
+                  <rect width="${cardWidth}" height="${cardHeight}" rx="10" fill="#1a1b26" stroke="#33415c" />
+                  <text x="18" y="28" fill="#7aa2f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">${escapeXml(title)}</text>
+                  <text x="18" y="58" fill="#c0caf5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">${escapeXml(value)}</text>
+                  <text x="140" y="32" fill="#e0af68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" text-anchor="middle">${escapeXml(trophyRank)}</text>
+                  <text x="18" y="82" fill="#9aa5ce" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">${escapeXml(caption)}</text>
+                </g>`;
+            }).join("");
+
+            const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-label="GitHub trophy summary for ${user}">
+              <rect width="100%" height="100%" fill="#0f172a" rx="14" />
+              <text x="18" y="17" fill="#bb9af7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">GitHub Trophy Summary · ${escapeXml(user)}</text>
+              ${cards}
+            </svg>`;
+
+            fs.mkdirSync("dist", { recursive: true });
+            fs.writeFileSync("dist/github-profile-trophies.svg", svg);
+          })().catch((error) => {
+            console.error(error);
+            process.exit(1);
+          });
+          NODE
+
+      - name: Publish snake animation
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
