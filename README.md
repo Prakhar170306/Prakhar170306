@@ -1,3 +1,18 @@
+<p align="center">
+  <img
+    src="https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true"
+    width="55%"
+    alt="Animated profile banner"
+  />
+</p>
+
+<br>
+
+<h1 align="center">Hi 👋, I'm Prakhar Saulakhe</h1>
+
+<h3 align="center">
+  AI & Full-Stack Developer • Data Science Focused • Strong Problem-Solving Foundation
+</h3>
 <h1 align="center">Hi 👋, I'm Prakhar Saulakhe</h1>
 
 <h3 align="center">AI & Full-Stack Developer • Data Science Focused • Strong Problem-Solving Foundation</h3>
