@@ -383,45 +383,7 @@ Educational machine-learning classification project based on structured health a
 
 ---
 
-## ◆ Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/Prakhar170306/BugTraceAI">
-    <img
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar170306&repo=BugTraceAI&hide_border=true&bg_color=0C1519&title_color=CF9D7B&text_color=F4E8DC&icon_color=CF9D7B"
-      alt="BugTrace AI repository"
-    />
-  </a>
-
-  <a href="https://github.com/Prakhar170306/Momento-OS">
-    <img
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar170306&repo=Momento-OS&hide_border=true&bg_color=0C1519&title_color=CF9D7B&text_color=F4E8DC&icon_color=CF9D7B"
-      alt="Momento OS repository"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Prakhar170306/Neon-SDF-Audio-Visualizer">
-    <img
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar170306&repo=Neon-SDF-Audio-Visualizer&hide_border=true&bg_color=0C1519&title_color=CF9D7B&text_color=F4E8DC&icon_color=CF9D7B"
-      alt="Neon SDF Audio Visualizer repository"
-    />
-  </a>
-
-  <a href="https://github.com/Prakhar170306/NHANES-AgeRisk-AI">
-    <img
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar170306&repo=NHANES-AgeRisk-AI&hide_border=true&bg_color=0C1519&title_color=CF9D7B&text_color=F4E8DC&icon_color=CF9D7B"
-      alt="NHANES AgeRisk AI repository"
-    />
-  </a>
-</p>
-
----
 
 ## ◆ Contribution Snake
 
