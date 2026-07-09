@@ -9,12 +9,12 @@
 <h1 align="center">Hi 👋, I'm Prakhar Saulakhe</h1>
 
 <h3 align="center">
-  AI & Full-Stack Developer • Data Science Focus • Strong DSA Foundation
+ Aspiring AI & Full-Stack Developer • Data Science Focus • Strong DSA Foundation
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2700&pause=800&color=CF9D7B&center=true&vCenter=true&width=920&lines=B.Tech+IT+%7C+Artificial+Intelligence+%26+Robotics;Building+AI-Powered+Developer+Tools;Developing+Full-Stack+Systems+with+React+%26+FastAPI;Currently+Advancing+in+Data+Science+and+Machine+Learning;Strong+Foundation+in+DSA+and+Problem+Solving"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2700&pause=800&color=CF9D7B&center=true&vCenter=true&width=920&lines=B.Tech+IT+%7C+Artificial+Intelligence+%26+Robotics;Building+AI-Powered+Developer+Tools;Developing+Full-Stack+Systems+with+React+%26+FastAPI;Currently+Advancing+in+Data+Science+and+Machine+Learning;Foundation+in+DSA+and+Problem+Solving"
     alt="Animated introduction"
   />
 </p>
