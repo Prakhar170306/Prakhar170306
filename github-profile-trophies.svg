@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="604" height="266" viewBox="0 0 604 266" role="img" aria-label="GitHub trophy summary for Prakhar170306">
+    <rect width="100%" height="100%" fill="#0f172a" rx="14" />
+    <text x="18" y="17" fill="#bb9af7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">GitHub Trophy Summary · Prakhar170306</text>
+    
+      <g transform="translate(18 22)">
+        <rect width="180" height="104" rx="10" fill="#1a1b26" stroke="#33415c" />
+        <text x="18" y="28" fill="#7aa2f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Repositories</text>
+        <text x="18" y="58" fill="#c0caf5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">14</text>
+        <text x="140" y="32" fill="#e0af68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" text-anchor="middle">B</text>
+        <text x="18" y="82" fill="#9aa5ce" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Public project footprint</text>
+      </g>
+      <g transform="translate(212 22)">
+        <rect width="180" height="104" rx="10" fill="#1a1b26" stroke="#33415c" />
+        <text x="18" y="28" fill="#7aa2f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Stars</text>
+        <text x="18" y="58" fill="#c0caf5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">21</text>
+        <text x="140" y="32" fill="#e0af68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" text-anchor="middle">A</text>
+        <text x="18" y="82" fill="#9aa5ce" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Community interest</text>
+      </g>
+      <g transform="translate(406 22)">
+        <rect width="180" height="104" rx="10" fill="#1a1b26" stroke="#33415c" />
+        <text x="18" y="28" fill="#7aa2f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Followers</text>
+        <text x="18" y="58" fill="#c0caf5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">3</text>
+        <text x="140" y="32" fill="#e0af68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" text-anchor="middle">B</text>
+        <text x="18" y="82" fill="#9aa5ce" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Developer network</text>
+      </g>
+      <g transform="translate(18 140)">
+        <rect width="180" height="104" rx="10" fill="#1a1b26" stroke="#33415c" />
+        <text x="18" y="28" fill="#7aa2f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Forks</text>
+        <text x="18" y="58" fill="#c0caf5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">1</text>
+        <text x="140" y="32" fill="#e0af68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" text-anchor="middle">B</text>
+        <text x="18" y="82" fill="#9aa5ce" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Repository reuse</text>
+      </g>
+      <g transform="translate(212 140)">
+        <rect width="180" height="104" rx="10" fill="#1a1b26" stroke="#33415c" />
+        <text x="18" y="28" fill="#7aa2f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Languages</text>
+        <text x="18" y="58" fill="#c0caf5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">C++ / Python / TypeScript</text>
+        <text x="140" y="32" fill="#e0af68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" text-anchor="middle">S</text>
+        <text x="18" y="82" fill="#9aa5ce" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Verified public repo stack</text>
+      </g>
+      <g transform="translate(406 140)">
+        <rect width="180" height="104" rx="10" fill="#1a1b26" stroke="#33415c" />
+        <text x="18" y="28" fill="#7aa2f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Experience</text>
+        <text x="18" y="58" fill="#c0caf5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">1+ yrs</text>
+        <text x="140" y="32" fill="#e0af68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" text-anchor="middle">B</text>
+        <text x="18" y="82" fill="#9aa5ce" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">GitHub profile age</text>
+      </g>
+  </svg>
